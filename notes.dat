@@ -1,0 +1,12 @@
+The purpose of the this project is to take a deeper look at code violations in Seattle, see how they change from area to area, and see how the creation and followup of cases has changed over time. For particular areas, how are case creations followed up? The initial motivation for this was trying to find a place to live. This can be combined with crime cases as well.
+
+Density map of code violation cases (creation + followup): Notice regions of high density. How can I choose a bin size?
+Cases per month: Drop off after ~2010/2011. How can I find roughly where that drop is?
+Variations with time: Winter months have highest rates, Autumn lowest by far.
+Detrending data: Is this worth it?
+Compare to crime map density:1
+
+THE DROPS: http://clerk.seattle.gov/~public/meetingrecords/2012/plus20120111_8a.pdf
+How did I even find that?
+
+Should I remove followup inspections entirely?
